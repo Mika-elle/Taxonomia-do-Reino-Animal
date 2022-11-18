@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Taxonomia do Reino Animal.props" />
+</Project>

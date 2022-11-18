@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Taxonomia do Reino Animal.props" />
+</Project>

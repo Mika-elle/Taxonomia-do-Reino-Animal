@@ -1,0 +1,32 @@
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\Taxonomia do Reino Animal.csproj.AssemblyReference.cache
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\Taxonomia do Reino Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\Taxonomia do Reino Animal.AssemblyInfoInputs.cache
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\Taxonomia do Reino Animal.AssemblyInfo.cs
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\Taxonomia do Reino Animal.csproj.CoreCompileInputs.cache
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\Taxonomia do Reino Animal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\Taxonomia do Reino Animal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\bin\Debug\net6.0\appsettings.json
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\bin\Debug\net6.0\Taxonomia do Reino Animal.exe
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\bin\Debug\net6.0\Taxonomia do Reino Animal.deps.json
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\bin\Debug\net6.0\Taxonomia do Reino Animal.runtimeconfig.json
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\bin\Debug\net6.0\Taxonomia do Reino Animal.dll
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\bin\Debug\net6.0\Taxonomia do Reino Animal.pdb
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\staticwebassets\msbuild.Taxonomia do Reino Animal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\staticwebassets\msbuild.build.Taxonomia do Reino Animal.props
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Taxonomia do Reino Animal.props
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Taxonomia do Reino Animal.props
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\scopedcss\bundle\Taxonomia do Reino Animal.styles.css
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\Taxonomia do Reino Animal.csproj.CopyComplete
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\Taxonomia do Reino Animal.dll
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\refint\Taxonomia do Reino Animal.dll
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\Taxonomia do Reino Animal.pdb
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\Taxonomia do Reino Animal.genruntimeconfig.cache
+C:\Users\mikak\OneDrive\Documentos\Visual Studio 2022\Taxonomia do Reino Animal\Taxonomia do Reino Animal\obj\Debug\net6.0\ref\Taxonomia do Reino Animal.dll
